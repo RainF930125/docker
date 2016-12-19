@@ -1,0 +1,2 @@
+FROM centos
+MAINTAINER test_automatic_build_by_jrf
